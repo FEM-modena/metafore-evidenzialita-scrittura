@@ -19,25 +19,37 @@ Vi abbiamo preparato una serie di attività di comprensione e scrittura a partir
 
 ## Le attività | *doccano*
 
-<a href="http://doccano.fem.digital/projects/4" target="_blank">Stile Ostile</a>
-<a href="http://doccano.fem.digital/projects/5" target="_blank">Comprensione del testo | Umberto Eco</a>
-<a href="http://doccano.fem.digital/projects/6" target="_blank">Comprensione del testo | Climate Change</a>
-<a href="http://doccano.fem.digital/projects/7" target="_blank">Comprensione del testo | Prima del Coronavirus</a>
-<a href="http://doccano.fem.digital/projects/8" target="_blank">Comprensione del testo | Dopo il Coronavirus</a>
-<a href="http://doccano.fem.digital/projects/9" target="_blank">Comprensione del testo | Coronavirus all'estero</a>
-<a href="http://doccano.fem.digital/projects/11" target="_blank">Comprensione del testo | Brexit</a>
+<i class="fas fa-laptop-code"></i> <a href="http://doccano.fem.digital/projects/4" target="_blank">Stile Ostile</a>  
+
+<i class="fas fa-laptop-code"></i> <a href="http://doccano.fem.digital/projects/5" target="_blank">Comprensione del testo | Umberto Eco</a>  
+
+<i class="fas fa-laptop-code"></i> <a href="http://doccano.fem.digital/projects/6" target="_blank">Comprensione del testo | Climate Change</a>  
+
+<i class="fas fa-laptop-code"></i> <a href="http://doccano.fem.digital/projects/7" target="_blank">Comprensione del testo | Prima del Coronavirus</a>  
+
+<i class="fas fa-laptop-code"></i> <a href="http://doccano.fem.digital/projects/8" target="_blank">Comprensione del testo | Dopo il Coronavirus</a>  
+
+<i class="fas fa-laptop-code"></i> <a href="http://doccano.fem.digital/projects/9" target="_blank">Comprensione del testo | Coronavirus all'estero</a>  
+
+<i class="fas fa-laptop-code"></i> <a href="http://doccano.fem.digital/projects/11" target="_blank">Comprensione del testo | Brexit</a>  
 
 
 ## Le attività | Template in GDoc
 Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruzioni e i testi già pronti per svolgere l’attività. Potete utilizzarli dopo averne fatto una copia nella vostra cartella di lavoro.
 
-<a href="https://docs.google.com/document/d/11-u2NW5v4J7boFDfVQXhjS5RdW8CYGAtw2-bJsUTwYA/edit?usp=sharing" target="_blank">Stile Ostile</a>
-<a href="https://docs.google.com/document/d/1yr2l-IG7IDMzhpt2reurmLurJX16hjZSGwSA9AQVu2M/edit?usp=sharing" target="_blank">Comprensione del testo | Umberto Eco</a>
-<a href="https://docs.google.com/document/d/1Vd8XXsk4m_yHFGFnshQIcjYX8ITpZ06z7qFikhlsUk8/edit?usp=sharing" target="_blank">Comprensione del testo | Climate Change</a>
-<a href="https://docs.google.com/document/d/17ylVq0deaVkdnS3CMIbKkH374J0o2SoVjUvp9JhzXiM/edit?usp=sharing" target="_blank">Comprensione del testo | Prima del Coronavirus</a>
-<a href="https://docs.google.com/document/d/1R10KP4YLmNVBV5Ldepd16c5AANvz1dPcQYYolcnfsnQ/edit?usp=sharing" target="_blank">Comprensione del testo | Dopo il Coronavirus</a>
-<a href="https://docs.google.com/document/d/1ngpD063MlstudnTSN9NeReKrNK33IJZUk_43_E10h-I/edit?usp=sharing" target="_blank">Comprensione del testo | Coronavirus all'estero</a>
-<a href="https://docs.google.com/document/d/1QRgn7G_DUFLXNZAUbr4EVMv3yTxK7GTv8X6O-UJmAV8/edit?usp=sharing" target="_blank">Comprensione del testo | Brexit</a>
+<i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/11-u2NW5v4J7boFDfVQXhjS5RdW8CYGAtw2-bJsUTwYA/edit?usp=sharing" target="_blank">Stile Ostile</a>  
+
+<i class="fas fa-file-alt"></i><a href="https://docs.google.com/document/d/1yr2l-IG7IDMzhpt2reurmLurJX16hjZSGwSA9AQVu2M/edit?usp=sharing" target="_blank">Comprensione del testo | Umberto Eco</a>  
+
+<i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/1Vd8XXsk4m_yHFGFnshQIcjYX8ITpZ06z7qFikhlsUk8/edit?usp=sharing" target="_blank">Comprensione del testo | Climate Change</a>  
+
+<i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/17ylVq0deaVkdnS3CMIbKkH374J0o2SoVjUvp9JhzXiM/edit?usp=sharing" target="_blank">Comprensione del testo | Prima del Coronavirus</a>  
+
+<i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/1R10KP4YLmNVBV5Ldepd16c5AANvz1dPcQYYolcnfsnQ/edit?usp=sharing" target="_blank">Comprensione del testo | Dopo il Coronavirus</a>
+
+<i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/1ngpD063MlstudnTSN9NeReKrNK33IJZUk_43_E10h-I/edit?usp=sharing" target="_blank">Comprensione del testo | Coronavirus all'estero</a>
+
+<i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/1QRgn7G_DUFLXNZAUbr4EVMv3yTxK7GTv8X6O-UJmAV8/edit?usp=sharing" target="_blank">Comprensione del testo | Brexit</a>
 
 I template contengono alcuni esempi tratti dai diversi dataset. Puoi trovare tutti i testi delle singole attivita in <a href="https://drive.google.com/drive/folders/1R4qgFW17pCd6tAxPzyBG9L9DmQj68kSM?usp=sharing" target="_blank">questa cartella condivisa</a>, che raccoglie i materiali caricati su *doccano*.
 
