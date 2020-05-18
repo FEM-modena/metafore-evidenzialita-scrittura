@@ -39,7 +39,7 @@ Di seguito i nostri **template** suddivisi per tipologia testuale, con le istruz
 
 <i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/11-u2NW5v4J7boFDfVQXhjS5RdW8CYGAtw2-bJsUTwYA/edit?usp=sharing" target="_blank">Stile Ostile</a>  
 
-<i class="fas fa-file-alt"></i><a href="https://docs.google.com/document/d/1yr2l-IG7IDMzhpt2reurmLurJX16hjZSGwSA9AQVu2M/edit?usp=sharing" target="_blank">Comprensione del testo | Umberto Eco</a>  
+<i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/1yr2l-IG7IDMzhpt2reurmLurJX16hjZSGwSA9AQVu2M/edit?usp=sharing" target="_blank">Comprensione del testo | Umberto Eco</a>  
 
 <i class="fas fa-file-alt"></i> <a href="https://docs.google.com/document/d/1Vd8XXsk4m_yHFGFnshQIcjYX8ITpZ06z7qFikhlsUk8/edit?usp=sharing" target="_blank">Comprensione del testo | Climate Change</a>  
 
